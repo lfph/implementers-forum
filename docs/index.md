@@ -4,13 +4,18 @@ Linux Foundation Public Health hosts the GAEN Implementers Forum, a resource and
 
 This resource is designed to help you get access to the wisdom and experience of otehrs working on this same challenge around the world. 
 
-[Learn more.](https://www.lfph.io/community/implementers-forum/)
+[Learn more about the Implementer's Forum](https://www.lfph.io/community/implementers-forum/)
+
 [LFPH GitHub](https://github.com/lfph)
 
 ## Getting Started
 
 * To make sense of most of these materials you need an entitlement from Apple and Google. Please work with your local PHA to get an entitlement.
     * [Template](https://github.com/lfph/exposure-notification-playbook/blob/master/entitlement.md) to request an entitlement
+
+## Countries and states with GAEN apps
+
+See the [LFPH Landscape](https://landscape.lfph.io/category=gaen-bluetooth&format=card-mode&grouping=category)
 
 ## News
 
