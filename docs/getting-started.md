@@ -24,4 +24,7 @@ One of the first decisions an implementation team needs to make in conjunction w
 * **Support strategy** What level of support will the implementer be providing in the long term? Using an open-source codebase means that a team of maintainers will be updating the app as the API changes, allowing downstream apps to take advantage of this work. A fully custom app will require the implementation team to keep abreast of all API changes and update the app accordingly.
 * **Additional Features Required** Some jurisdictions require the app to literally do nothing except exposure notification, while others want the app to be able to provide basic information on COVID-19 or disease progression in the community. Yet other PHAs would like to be able to add new modules in the future, such as services to assist those in self-isolation.
 
-We strongly recommend using an open source codebase for your app to increase transparency and trust with your users.
+We strongly recommend using an open source codebase for your app to increase transparency and trust with your users. LFPH supports the following open source projects:
+
+* [**Covid Shield**](https://github.com/CovidShield), used by Canada
+* [**COVID Green**](https://github.com/covidgreen), used by Ireland, Northern Ireland, Gibraltar
