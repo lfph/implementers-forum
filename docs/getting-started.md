@@ -26,5 +26,5 @@ One of the first decisions an implementation team needs to make in conjunction w
 
 We strongly recommend using an open source codebase for your app to increase transparency and trust with your users. LFPH supports the following open source projects:
 
-* [**Covid Shield**](https://github.com/CovidShield), used by Canada
+* [**COVID Shield**](https://github.com/CovidShield), used by Canada
 * [**COVID Green**](https://github.com/covidgreen), used by Ireland, Northern Ireland, Gibraltar
