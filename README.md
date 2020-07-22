@@ -1,3 +1,4 @@
 # implementers-forum
-LFPH Implementers Forum Draft
-Hello World!
+Implementers forum documentation
+
+This is currently a draft. To learn more about previewing the documentation, check out https://www.mkdocs.org/#overview. 
