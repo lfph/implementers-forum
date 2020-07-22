@@ -9,3 +9,9 @@ theme:
     accent: 
 repo_name: jennydove/
 repo_url: https://github.com/squidfunk/mkdocs-material
+nav:
+  - 'index.md'
+  - 'getting-started.md'
+  - 'Documentation':
+    - 'user-research.md'
+    - 'analytics.md'
