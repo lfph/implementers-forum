@@ -1,4 +1,4 @@
-site_name: ImpFo
+site_name: LFPH Implementers Forum
 theme: 
   name: material
   features:
@@ -7,5 +7,11 @@ theme:
     scheme: preference
     primary: indigo
     accent: 
-repo_name: jennydove/
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_name: LFPH
+repo_url: https://github.com/lfph/implementers-forum
+nav:
+  - 'index.md'
+  - 'getting-started.md'
+  - 'Documentation':
+    - 'user-research.md'
+    - 'analytics.md'
