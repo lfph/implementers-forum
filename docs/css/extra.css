@@ -20,9 +20,9 @@ div.md-content a[href^="//"]:not([href*="lfph.io"]) {
   --md-primary-fg-color--dark: #282878; 
   --md-primary-bg-color: #ffffff; 
   --md-primary-bg-color--light: #ffffff; 
-  --md-text-link-color: #0078F7; 
+  --md-text-link-color: #282878; 
   /* Accent color shades */ 
-  --md-accent-fg-color: #282878; 
+  --md-accent-fg-color: #97A8BB; 
   --md-accent-fg-color--transparent: #282878; 
   --md-accent-bg-color: #282878; 
   --md-accent-bg-color--light: #97A8BB; 
