@@ -5,8 +5,10 @@ theme:
     - instant
   palette:
     scheme: preference
-    primary: indigo
+    primary:
     accent: 
+  favicon: img/favicon.ico
+  logo: img/lfph-icon-white.svg
 repo_name: LFPH
 repo_url: https://github.com/lfph/implementers-forum
 nav:
@@ -15,3 +17,9 @@ nav:
   - 'Documentation':
     - 'user-research.md'
     - 'analytics.md'
+extra_css:
+  - css/extra.css
+extra: 
+  social: 
+    - icon: fontawesome/brands/twitter 
+      link: https://twitter.com/lfpubhealth 

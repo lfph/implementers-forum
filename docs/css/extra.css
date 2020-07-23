@@ -1,0 +1,45 @@
+/* display external links with icon 
+div.md-content a[href^="http://"]:not([href*="lfph.io"]):after,
+div.md-content a[href^="https://"]:not([href*="lfph.io"]):after,
+div.md-content a[href^="//"]:not([href*="lfph.io"]) {
+    font-family: 'FontAwesome';
+    content: ' \f08e';
+    font-weight: normal;
+    font-style: normal;
+    vertical-align: top;
+    display: inline-block;
+    text-decoration: none;
+    padding-left: 3px;
+}
+*/
+
+:root { 
+  /* Primary color shades */ 
+  --md-primary-fg-color: #0078F7; 
+  --md-primary-fg-color--light: #ffffff; 
+  --md-primary-fg-color--dark: #282878; 
+  --md-primary-bg-color: #ffffff; 
+  --md-primary-bg-color--light: #ffffff; 
+  --md-text-link-color: #0078F7; 
+  /* Accent color shades */ 
+  --md-accent-fg-color: #282878; 
+  --md-accent-fg-color--transparent: #282878; 
+  --md-accent-bg-color: #282878; 
+  --md-accent-bg-color--light: #97A8BB; 
+}
+/*
+:root { 
+  /* Primary color shades */ 
+  --md-primary-fg-color: #282878; 
+  --md-primary-fg-color--light: #ffffff; 
+  --md-primary-fg-color--dark: #282878; 
+  --md-primary-bg-color: #ffffff; 
+  --md-primary-bg-color--light: #ffffff; 
+  --md-text-link-color: #0078F7; 
+  /* Accent color shades */ 
+  --md-accent-fg-color: #0078F7; 
+  --md-accent-fg-color--transparent: #0078F7; 
+  --md-accent-bg-color: #0078F7; 
+  --md-accent-bg-color--light: #0078F7; 
+}
+*/ 

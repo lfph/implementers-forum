@@ -15,7 +15,7 @@ See the [LFPH Landscape](https://landscape.lfph.io/category=gaen-bluetooth&forma
 ## Key terminology
 
 * **GAEN API** Google Apple Exposure Notification API
-* **Implementer** The team that is responsible for the technical execution of the exposure notification app. Usually, but not always, this is a technology firm hired by the PHA. 
+* **Implementer** The team that is responsible for the technical execution of the exposure notification app. Usually, but not always, this is a technology firm hired by the PHA.
 * **PHA** Public Health Authority
 * **LFPH** Linux Foundation Public Health
 
