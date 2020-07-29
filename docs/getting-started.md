@@ -28,3 +28,10 @@ We strongly recommend using an open source codebase for your app to increase tra
 
 * [**COVID Shield**](https://github.com/CovidShield), used by Canada
 * [**COVID Green**](https://github.com/covidgreen), used by Ireland, Northern Ireland, Gibraltar
+
+## An introduction to GAEN and exposure notification
+
+There have been a number of useful introductions to GAEN and exposure notification to help you learn more about the technology and its applications: 
+
+* [**COVID-19 Case Investigation and Contact Tracing: Considerations for Using Digital Technologies**](https://www.astho.org/ASTHOReports/COVID-19-Case-Investigation-and-Contact-Tracing-Considerations-for-Using-Digital-Technologies/07-16-20/), ASTHO.
+* [**How Covid-19 Contact Tracing Works on Your Phone**](https://www.wired.com/story/covid-19-contact-tracing-apple-google/), Wired Magazine
