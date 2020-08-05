@@ -17,6 +17,7 @@ nav:
   - 'Documentation':
     - 'user-research.md'
     - 'analytics.md'
+    - 'equity-and-inclusion.md'
 extra_css:
   - css/extra.css
 extra: 
