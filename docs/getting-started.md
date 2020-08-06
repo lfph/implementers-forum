@@ -2,6 +2,13 @@
 
 The Implementer's Forum supports the Google Apple Exposure Notification API (GAEN). Both [Google](https://www.google.com/covid19/exposurenotifications/) and [Apple](https://developer.apple.com/documentation/exposurenotification) have extensive documentation on their particular version of the API.
 
+## An introduction to GAEN and exposure notification
+
+There have been a number of useful introductions to GAEN and exposure notification to help you learn more about the technology and its applications: 
+
+* [**COVID-19 Case Investigation and Contact Tracing: Considerations for Using Digital Technologies**](https://www.astho.org/ASTHOReports/COVID-19-Case-Investigation-and-Contact-Tracing-Considerations-for-Using-Digital-Technologies/07-16-20/), ASTHO.
+* [**How Covid-19 Contact Tracing Works on Your Phone**](https://www.wired.com/story/covid-19-contact-tracing-apple-google/), Wired Magazine
+
 ## Obtaining an entitlement
 
 In order to begin development against the API, a team needs an **entitlement**. Developers are not allowed access to these APIs without an entitlement. Entitlements are only given to Public Health Authorities (PHAs) and the teams that are officially working with them to build exposure notification apps. The PHA has to be at the state or national level and the letter likely needs to come from the PHA's office or the executive office of the jurisdiction (i.e. the governor, president, or head minister).
