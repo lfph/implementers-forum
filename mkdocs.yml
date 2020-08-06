@@ -15,6 +15,7 @@ nav:
   - 'index.md'
   - 'getting-started.md'
   - 'Documentation':
+    - 'measurements-and-attenuation'
     - 'user-research.md'
     - 'analytics.md'
     - 'equity-and-inclusion.md'
