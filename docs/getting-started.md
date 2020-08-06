@@ -23,6 +23,10 @@ To obtain an entitlement, the PHA needs to submit a letter to Apple and Google a
 
 To simplify this, we have a [template](https://github.com/lfph/exposure-notification-playbook/blob/master/entitlement.md) available which can be used on the PHA letterhead.
 
+The letters for each company need to be submitted via a form on their websites:
+* [Google](https://support.google.com/googleplay/android-developer/contact/expo_notif_api)
+* [Apple](https://developer.apple.com/contact/request/exposure-notification-entitlement)
+
 ## Pick your codebase
 
 One of the first decisions an implementation team needs to make in conjunction with its PHA is what codebase to use for the app. The factors to consider when choosing a codebase are:
