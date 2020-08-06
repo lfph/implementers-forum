@@ -22,8 +22,12 @@ See the [LFPH Landscape](https://landscape.lfph.io/category=gaen-bluetooth&forma
 ## News
 
 * LFPH GAEN Symposium, July 16, 2020
-  * We hosted a symposium for the exposure notification community - view [notes](https://github.com/lfph/events/tree/master/2020-07-GAEN-Symposium) and [videos](https://www.youtube.com/playlist?list=PLLUsXRAaict7U00sMcwdLWwPPfRwpnMs5).
+    * We hosted a symposium for the exposure notification community - view [notes](https://github.com/lfph/events/tree/master/2020-07-GAEN-Symposium) and [videos](https://www.youtube.com/playlist?list=PLLUsXRAaict7U00sMcwdLWwPPfRwpnMs5).
 
-## Contact
+### Code of conduct
 
-For further questions and support please contact jenny@lfph.io.
+All contributors to the Implementer's Forum are expected to follow the LFPH [Code of Conduct](https://github.com/lfph/foundation/blob/master/code-of-conduct.md).
+
+### Contact
+
+For further questions and support please contact [jenny@lfph.io](mailto:jenny@lfph.io).
