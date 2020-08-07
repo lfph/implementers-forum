@@ -15,9 +15,11 @@ nav:
   - 'index.md'
   - 'getting-started.md'
   - 'Documentation':
+    - 'measurements-and-attenuation'
     - 'user-research.md'
     - 'analytics.md'
     - 'equity-and-inclusion.md'
+  - 'Contributors'
 extra_css:
   - css/extra.css
 extra: 
