@@ -9,6 +9,24 @@ There have been a number of useful introductions to GAEN and exposure notificati
 * [**COVID-19 Case Investigation and Contact Tracing: Considerations for Using Digital Technologies**](https://www.astho.org/ASTHOReports/COVID-19-Case-Investigation-and-Contact-Tracing-Considerations-for-Using-Digital-Technologies/07-16-20/), ASTHO.
 * [**How Covid-19 Contact Tracing Works on Your Phone**](https://www.wired.com/story/covid-19-contact-tracing-apple-google/), Wired Magazine
 
+<div class="video-wrapper">
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1Cz2Xzm6knM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Steps for public health authorities to launch
+
+| Step     | Action          | Purpose  |
+| ---------|:-------------| :------------------|
+| 1 | Develop iOS & Android User-Facing Apps | Enable Bluetooth key exchange; Provide the user interface for exposure notification system |
+| 2 | Identify & Connect to the Key Server      | Store the non-identifiable Bluetooth keys of users with verified positive diagnosis |
+| 3 | Determine & Implement Positive Test Verification Methodology    | Enable verification of positive test on app |
+| 4 | Define Meaningful Exposure | Determine which exposures warrant a notification |
+| 5 | Define Next Steps for Contacts      |   Determine what next steps to provide to exposed users |
+| 6 | Integrate with existing CRM solution      | Enable contact tracers to accelerate outreach |
+| 7 | Launch a Public Awareness Campaign | Maximize public participation |
+
+Source: [Google](https://youtu.be/H4YHvWvIwV4?t=1182)
+
 ## Obtaining an entitlement
 
 In order to begin development against the API, a team needs an **entitlement**. Developers are not allowed access to these APIs without an entitlement. Entitlements are only given to Public Health Authorities (PHAs) and the teams that are officially working with them to build exposure notification apps. The PHA has to be at the state or national level and the letter likely needs to come from the PHA's office or the executive office of the jurisdiction (i.e. the governor, president, or head minister).
