@@ -46,3 +46,4 @@ The PHA has the ability to define when infectiousness moves from none to standar
 ## Resources
 
 * [Infection Spread and High-Resolution Detection of Close Contact Behaviors](https://www.mdpi.com/1660-4601/17/4/1445)
+* [A technical roadmap for the UK’s contact tracing app functionality](https://www.turing.ac.uk/blog/technical-roadmap-uks-contract-tracing-app-functionality). For details on the UK perspective on risk scoring, worth following through to their [paper](https://arxiv.org/pdf/2005.11057.pdf) on the topic.
