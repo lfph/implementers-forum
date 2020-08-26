@@ -16,7 +16,7 @@ See the [LFPH Landscape](https://landscape.lfph.io/category=gaen-bluetooth&forma
 
 It is imperative that we are precise as we communicate about exposure notification technologies.
 Even slight mischaracterizations can undermine efforts to build trust amongst the public.
-Here, we aggregate some key terms, their meanings, and the context in which to use them.
+Here, we aggregate some key terms, their meanings, and the context in which they are typically used.
 
 | **Term** | **Definition** | **Context** |
 |------|------------|---------|
