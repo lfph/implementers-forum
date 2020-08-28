@@ -20,6 +20,7 @@ nav:
     - 'analytics.md'
     - 'equity-and-inclusion.md'
   # - 'Contributors.md' #
+    - 'legal-documents.md'
 extra_css:
   - css/extra.css
 extra: 
