@@ -29,7 +29,7 @@ Source: [Google](https://youtu.be/H4YHvWvIwV4?t=1182)
 
 ## Obtaining an entitlement
 
-In order to begin development against the API, a team needs an **entitlement**. Developers are not allowed access to these APIs without an entitlement. Entitlements are only given to Public Health Authorities (PHAs) and the teams that are officially working with them to build exposure notification apps. The PHA has to be at the state or national level and the letter likely needs to come from the PHA's office or the executive office of the jurisdiction (i.e. the governor, president, or head minister).
+In order to begin development against the API, a team needs an **entitlement**. Developers are not allowed access to these APIs without an entitlement. Entitlements are only given to Public Health Authorities (PHAs) and the teams that are officially working with them to build exposure notification apps. The PHA has to be at the state or national level and the letter likely needs to come from the PHA's office or the executive office of the jurisdiction (i.e. the governor, president, or head minister). 
 
 To obtain an entitlement, the PHA needs to submit a letter to Apple and Google according to the following:
 
@@ -45,6 +45,8 @@ The letters for each company need to be submitted via a form on their websites:
 
 * [Google](https://support.google.com/googleplay/android-developer/contact/expo_notif_api)
 * [Apple](https://developer.apple.com/contact/request/exposure-notification-entitlement)
+
+It is best for the PHA to create their own developer account and give the technology team access to it so that the public sees the PHA as the company publishing the app rather than a tech company publishing the app. This will add another level of credibility to support the adoption of the app.
 
 ## Pick your codebase
 
