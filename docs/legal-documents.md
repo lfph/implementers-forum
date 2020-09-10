@@ -24,3 +24,5 @@ There are a number of legal documents that every exposure notification app will 
 ## Other Terms and Conditions
 * **Canada**
     * [Vulnerability disclosure policy](https://github.com/cds-snc/covid-alert-documentation/blob/main/VulnerabilityDisclosurePolicy.md)
+* **Alabama**
+    * [General legal disclaimers and privacy FAQ](https://github.com/lfph/implementers-forum/blob/master/docs/resources/guidesafe_legal.md) (Please note that Alabama's privacy policy links directly to the app sponsor's, [the University of Alabama](https://www.ua.edu/privacy), and is not EN-specific.)
