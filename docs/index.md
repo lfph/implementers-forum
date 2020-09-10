@@ -12,13 +12,6 @@ This resource is designed to help you get access to the wisdom and experience of
 
 See the [LFPH Landscape](https://landscape.lfph.io/category=gaen-bluetooth&format=card-mode&grouping=category)
 
-## Key terminology
-
-* **GAEN API** Google Apple Exposure Notification API
-* **Implementer** The team that is responsible for the technical execution of the exposure notification app. Usually, but not always, this is a technology firm hired by the PHA.
-* **PHA** Public Health Authority
-* **LFPH** Linux Foundation Public Health
-
 ## News
 
 * LFPH GAEN Symposium, July 16, 2020
