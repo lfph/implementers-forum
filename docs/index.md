@@ -22,7 +22,7 @@ The team at LFPH is here to support you in any way you need. This can include ga
 
 ### Code of conduct
 
-All contributors to the Implementer's Forum are expected to follow the LFPH [Code of Conduct](https://github.com/lfph/foundation/blob/master/code-of-conduct.md). Please report any CoC violations to an LFPH staff member. 
+All contributors to the Implementer's Forum are expected to follow the LFPH [Code of Conduct](https://github.com/lfph/foundation/blob/master/code-of-conduct.md). Please report any CoC violations to an LFPH staff member.
 
 ### Disclaimer
 
