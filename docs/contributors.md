@@ -2,7 +2,7 @@
 
 ## Thank you
 
-Thank you to everyone who has contributed to this document:
+Thank you to everyone who has contributed to this site:
 
 * Bill Pugh, University of Maryland
 * Elissa Redmiles, Microsoft Research

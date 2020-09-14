@@ -19,8 +19,8 @@ nav:
     - 'user-research.md'
     - 'analytics.md'
     - 'equity-and-inclusion.md'
-  # - 'Contributors.md' #
     - 'legal-documents.md'
+  - 'contributors.md'
 extra_css:
   - css/extra.css
 extra: 
