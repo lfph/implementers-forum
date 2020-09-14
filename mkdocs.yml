@@ -27,3 +27,6 @@ extra:
   social: 
     - icon: fontawesome/brands/twitter 
       link: https://twitter.com/lfpubhealth 
+google_analytics:
+  - UA-82811140-43
+  - auto
