@@ -8,6 +8,7 @@ There have been a number of useful introductions to GAEN and exposure notificati
 
 * [**COVID-19 Case Investigation and Contact Tracing: Considerations for Using Digital Technologies**](https://www.astho.org/ASTHOReports/COVID-19-Case-Investigation-and-Contact-Tracing-Considerations-for-Using-Digital-Technologies/07-16-20/), ASTHO.
 * [**How Covid-19 Contact Tracing Works on Your Phone**](https://www.wired.com/story/covid-19-contact-tracing-apple-google/), Wired Magazine
+* [**Demystifying the 60% in Exposure Notification**](https://www.lfph.io/2020/08/21/demystifying-the-60/), LFPH. There have been a number of questions around the necessary level of adoption needed in order to see an effect from exposure notification technologies. For a summary of the latest research, please see this blog post.
 
 ## Obtaining an entitlement
 
