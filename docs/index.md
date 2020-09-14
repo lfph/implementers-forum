@@ -3,12 +3,19 @@ Linux Foundation Public Health hosts the GAEN [Implementer's Forum](https://www.
 
 This resource is designed to help you get access to the wisdom and experience of others working on this same challenge around the world.
 
+## Site highlights
+
+* [**Getting Started**](getting-started.md): An overview of the exposure notification technology, major steps to begin development, key terminology.
+* [**Legal Documents**](legal-documents.md): A compilation of terms and conditions, privacy policies, and data use policies from around the world.
+* [**User Research**](user-research.md): Some highlights from UX research on exposure notification from around the world.
+
 ## What we offer
 
 * **Private channels on Slack**
     * `#gaen-implementers` is designed to be out of the public eye so that you can have honest conversations with other teams around the world also working on exposure notification.
     * `#gaen-us` is only US-based PHAs
     * `#eu-implementers` is only EU-based PHAs
+    * `#gaen-enx` is focused on exposure notification express
     * `#gaen-risk-score` is dedicated to figuring out the right levels for risk scores and is especially for our epidemiologists
         * New to Slack? Check out these introductory [videos](https://www.youtube.com/watch?v=m2JuAa6-ors&list=PLWlXaxtQ7fUb1WqLJDqJFGQsAXU7CjoGz&index=2&t=0s) or [documentation](https://slack.com/help/articles/218080037-Getting-started-for-new-members).
         * Have a teammate that you want to invite to Slack? They can register at [slack.lfph.io](https://slack.lfph.io) and then message Jenny to get added to private channels.
