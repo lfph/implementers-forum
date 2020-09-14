@@ -1,5 +1,4 @@
-# Linux Foundation Public Health Implementer's Forum
-
+# Home
 Linux Foundation Public Health hosts the [GAEN Implementer's Forum](https://www.lfph.io/community/implementers-forum/), a resource and community designed to help various teams working with Public Health Authorities (PHAs) implementing Google Apple Exposure Notification API (GAEN) apps in their communities.
 
 This resource is designed to help you get access to the wisdom and experience of others working on this same challenge around the world.
