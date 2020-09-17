@@ -14,7 +14,7 @@ This resource is designed to help you get access to the wisdom and experience of
 * **Private channels on Slack**
     * `#gaen-implementers` is designed to be out of the public eye so that you can have honest conversations with other teams around the world also working on exposure notification.
     * `#gaen-us` is only US-based PHAs
-    * `#eu-implementers` is only EU-based PHAs
+    * `#gaen-eu` is only EU-based PHAs
     * `#gaen-enx` is focused on exposure notification express
     * `#gaen-risk-score` is dedicated to figuring out the right levels for risk scores and is especially for our epidemiologists
         * New to Slack? Check out these introductory [videos](https://www.youtube.com/watch?v=m2JuAa6-ors&list=PLWlXaxtQ7fUb1WqLJDqJFGQsAXU7CjoGz&index=2&t=0s) or [documentation](https://slack.com/help/articles/218080037-Getting-started-for-new-members).
