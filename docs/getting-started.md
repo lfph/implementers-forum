@@ -51,7 +51,7 @@ It is best for the PHA to create their own developer account and give the techno
 
 ## Pick your codebase
 
-One of the first decisions an implementation team needs to make in conjunction with its PHA is what codebase to use for the app. The factors to consider when choosing a codebase are:
+One of the first decisions an implementation team needs to make in conjunction with its PHA is whether to build a custom app or use EN Express (ENX). If using a custom app, they need to decide which codebase to use. The factors to consider when making these decisions are:
 
 * **Level of customization** Some PHAs want to have the app built from scratch for them and therefore completely customizable. Others want to build on the research and work done by others. Note that the greater level of customization, the more time it will take the implementer to build.
 * **Support strategy** What level of support will the implementer be providing in the long term? Using an open-source codebase means that a team of maintainers will be updating the app as the API changes, allowing downstream apps to take advantage of this work. A fully custom app will require the implementation team to keep abreast of all API changes and update the app accordingly.
@@ -60,7 +60,9 @@ One of the first decisions an implementation team needs to make in conjunction w
 We strongly recommend using an open source codebase for your app to increase transparency and trust with your users. LFPH supports the following open source projects:
 
 * [**COVID Shield**](https://github.com/CovidShield), used by Canada
-* [**COVID Green**](https://github.com/covidgreen), used by Ireland, Northern Ireland, Gibraltar
+* [**COVID Green**](https://github.com/covidgreen), used by Ireland, Northern Ireland, Gibraltar, Pennsylvania, Delaware
+
+All PHAs and their development teams are welcome to join the LFPH Implementer's Forum, whether they're using one of these projects, ENX, or another codebase.
 
 ## Key terminology
 
