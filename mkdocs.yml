@@ -19,7 +19,7 @@ nav:
     - 'user-research.md'
     - 'analytics.md'
     - 'equity-and-inclusion.md'
-  - 'test-cases.md'
+    - 'test-cases.md'
   # - 'Contributors.md' #
 extra_css:
   - css/extra.css
