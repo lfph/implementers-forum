@@ -16,10 +16,11 @@ nav:
   - 'getting-started.md'
   - 'Documentation':
     # - 'measurements-and-attenuation.md'
-    - 'user-research.md'
     - 'analytics.md'
     - 'equity-and-inclusion.md'
     - 'legal-documents.md'
+    - 'test-cases.md'
+    - 'user-research.md'
   - 'contributors.md'
 extra_css:
   - css/extra.css
