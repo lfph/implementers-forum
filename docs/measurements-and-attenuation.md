@@ -42,8 +42,10 @@ The faster test results can be turned around and thereby reported into the app, 
 
 The PHA has the ability to define when infectiousness moves from none to standard to high and back down again. As our understanding of transmission evolves, so should how these thresholds get set. Similar to attenuation, both thresholds and weights need to be set. 
 
-
 ## Resources
 
+* [**Quantifying SARS-CoV-2 infection risk within the Google/Apple exposure notification framework to inform quarantine recommendations**](https://www.medrxiv.org/content/10.1101/2020.07.17.20156539v2)
+    * Detailed research specific to GAEN apps out of the University of Arizona, focused on how to make sure risk settings match epidemiological and public health goals. This model is utilized by Covid Watch.
 * [Infection Spread and High-Resolution Detection of Close Contact Behaviors](https://www.mdpi.com/1660-4601/17/4/1445)
-* [A technical roadmap for the UK’s contact tracing app functionality](https://www.turing.ac.uk/blog/technical-roadmap-uks-contract-tracing-app-functionality). For details on the UK perspective on risk scoring, worth following through to their [paper](https://arxiv.org/pdf/2005.11057.pdf) on the topic.
+* [A technical roadmap for the UK’s contact tracing app functionality](https://www.turing.ac.uk/blog/technical-roadmap-uks-contract-tracing-app-functionality)
+    * For details on the UK perspective on risk scoring, worth following through to their [paper](https://arxiv.org/pdf/2005.11057.pdf) on the topic.
