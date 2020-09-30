@@ -8,7 +8,12 @@ There are a number of legal documents that every exposure notification app will 
     * [Privacy assessment](https://github.com/cds-snc/covid-alert-documentation/blob/main/COVIDAlertPrivacyAssessment.md) by Health Canada
     * [Privacy review](https://priv.gc.ca/en/privacy-topics/health-genetic-and-other-body-information/health-emergencies/rev_covid-app/) from the Office of the Privacy Commissioner
 * **Ireland**
-    * [General privacy and data terms, website](https://covidtracker.gov.ie/privacy-and-data/)    
+    * [General privacy and data terms, website](https://covidtracker.gov.ie/privacy-and-data/) 
+* **Delaware**
+   * [Data and Privacy Policy](https://coronavirus.delaware.gov/wp-content/uploads/sites/177/2020/09/COVID-Alert-Terms-082720-.pdf)
+* **Pennsylvania**
+   * [Data and Privacy Summary](https://www.health.pa.gov/topics/disease/coronavirus/Pages/COVID-Alert-Data.aspx)
+   * [Data and Privacy Policy](https://www.health.pa.gov/topics/Documents/Diseases%20and%20Conditions/COVID%20Alert%20App_Data%20and%20Privacy.pdf)
 
 ## Data Use
 * **Ireland**
@@ -26,3 +31,9 @@ There are a number of legal documents that every exposure notification app will 
     * [Vulnerability disclosure policy](https://github.com/cds-snc/covid-alert-documentation/blob/main/VulnerabilityDisclosurePolicy.md)
 * **Alabama**
     * [General legal disclaimers and privacy FAQ](https://github.com/lfph/implementers-forum/blob/master/docs/resources/guidesafe_legal.md) (Please note that Alabama's privacy policy links directly to the app sponsor's, [the University of Alabama](https://www.ua.edu/privacy), and is not EN-specific.)
+    
+## FAQ
+* **Delaware**
+   * [FAQ](https://coronavirus.delaware.gov/covidalert/faqs/)
+* **Pennsylvania**
+   * [FAQ](https://www.health.pa.gov/topics/disease/coronavirus/Pages/COVID-Alert-FAQs.aspx)
