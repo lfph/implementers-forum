@@ -51,7 +51,9 @@ It is best for the PHA to create their own developer account and give the techno
 
 ## Pick your codebase
 
-One of the first decisions an implementation team needs to make in conjunction with its PHA is whether to build a custom app or use EN Express (ENX). If using a custom app, they need to decide which codebase to use. The factors to consider when making these decisions are:
+One of the first decisions an implementation team needs to make in conjunction with its PHA is whether to build a custom app or use EN Express (ENX). You can learn more about ENX vs a custom app via this [blog post](https://www.lfph.io/2020/09/29/enx-vs-custom/).
+
+If using a custom app, they need to decide which codebase to use. The factors to consider when making these decisions are:
 
 * **Level of customization** Some PHAs want to have the app built from scratch for them and therefore completely customizable. Others want to build on the research and work done by others. Note that the greater level of customization, the more time it will take the implementer to build.
 * **Support strategy** What level of support will the implementer be providing in the long term? Using an open-source codebase means that a team of maintainers will be updating the app as the API changes, allowing downstream apps to take advantage of this work. A fully custom app will require the implementation team to keep abreast of all API changes and update the app accordingly.
@@ -63,6 +65,10 @@ We strongly recommend using an open source codebase for your app to increase tra
 * [**COVID Green**](https://github.com/covidgreen), used by Ireland, Northern Ireland, Gibraltar, Pennsylvania, Delaware
 
 All PHAs and their development teams are welcome to join the LFPH Implementer's Forum, whether they're using one of these projects, ENX, or another codebase.
+
+## Choose a Vendor
+
+Most PHAs choose to work with vendors for marketing, PR, and development. To see a list of which vendors other states have worked with, please request access to [this document](https://docs.google.com/spreadsheets/d/1S_uP4xwdEUqwcyFf8Zgh9hXnfEei2MnuqcX8rNaM6cI/edit?usp=sharing) using a .gov email address or message Jenny Wanger on the Slack channel.
 
 ## Key terminology
 
