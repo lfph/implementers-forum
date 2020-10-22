@@ -8,7 +8,9 @@ There are a number of legal documents that every exposure notification app will 
     * [Privacy assessment](https://github.com/cds-snc/covid-alert-documentation/blob/main/COVIDAlertPrivacyAssessment.md) by Health Canada
     * [Privacy review](https://priv.gc.ca/en/privacy-topics/health-genetic-and-other-body-information/health-emergencies/rev_covid-app/) from the Office of the Privacy Commissioner
 * **Ireland**
-    * [General privacy and data terms, website](https://covidtracker.gov.ie/privacy-and-data/)    
+    * [General privacy and data terms, website](https://covidtracker.gov.ie/privacy-and-data/)
+* **United States - District of Columbia**
+    * [Privacy Policy](https://coronavirus.dc.gov/dccan/privacy)
 
 ## Data Use
 * **Ireland**
