@@ -28,3 +28,24 @@ This is a compilation of user research and UX reports conducted on the topic of 
 ## Other institutions
 
 * [**UX Recommendations**](https://tcncoalition.files.wordpress.com/2020/06/tcn-ux-recommendations-whitepaper-v1.pdf), TCN Coalition
+
+## Naming Conventions
+
+There has been a fair amount of discussion on the [LFPH Slack channel] around naming conventions. This section highlights a few ways in which naming conventions have been implemented throughout the English-speaking world. We suggest conducting user research to determine the best phrase for your jurisdiction.
+
+### Exposure Logging 
+
+* Encounter tracking
+* Contact detection
+* Observing exposures
+* Digital handshake
+* Closeness sensing
+* Proximity tracing
+* Monitoring
+* Exposure logging
+
+### TEKs
+
+* Random Keys
+* Ephemerial IDs
+* Random IDs
