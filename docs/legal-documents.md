@@ -14,6 +14,9 @@ There are a number of legal documents that every exposure notification app will 
 * **Pennsylvania**
     * [Data and Privacy Summary](https://www.health.pa.gov/topics/disease/coronavirus/Pages/COVID-Alert-Data.aspx)
     * [Data and Privacy Policy](https://www.health.pa.gov/topics/Documents/Diseases%20and%20Conditions/COVID%20Alert%20App_Data%20and%20Privacy.pdf)
+    * [General privacy and data terms, website](https://covidtracker.gov.ie/privacy-and-data/)
+* **United States - District of Columbia**
+    * [Privacy Policy](https://coronavirus.dc.gov/dccan/privacy)
 
 ## Data Use
 * **Ireland**

@@ -2,9 +2,10 @@
 
 This is a compilation of documentation available on how different countries approach analytics and telemetry of their apps.
 
-* [**Italy**](https://github.com/immuni-app/immuni-documentation/blob/master/Privacy-Preserving%20Analytics.md) 
-    * This is a detailed report of how the Italians were able to implement analytics in a secure fashion to both maintain user privacy and server data integrity.
-* [**Switzerland**](https://github.com/digitalepidemiologylab/swisscovid_efficacy/blob/master/SwissCovid_efficacy_MS.pdf)
-    * The Swiss put out a detailed report covering how they are able to measure the efficacy of the app and showing initial results.
-* [**Ireland**](https://www.youtube.com/watch?v=j0weRzYIsnM&list=PLLUsXRAaict7U00sMcwdLWwPPfRwpnMs5&index=4)
-    * A video discussion about the production and analytics of the COVID Green app in use by Ireland, Gibraltar, Pennsylvania, Delaware, and others.
+* **Italy**
+    * This [detailed description](https://github.com/immuni-app/immuni-documentation/blob/master/Privacy-Preserving%20Analytics.md) covers how the Italians were able to implement analytics in a secure fashion to both maintain user privacy and server data integrity.
+* **Switzerland**
+    * The Swiss put out a [detailed report](https://github.com/digitalepidemiologylab/swisscovid_efficacy/blob/master/SwissCovid_efficacy_MS.pdf) covering how they are able to measure the efficacy of the app and showing initial results.
+    * Their [website](https://www.experimental.bfs.admin.ch/expstat/en/home/innovative-methods/swisscovid-app-monitoring.html) shows app analytics, including downloads, active users, and covid codes entered.
+* **Ireland**
+    * From the [GAEN Symposium](https://github.com/lfph/events/tree/master/2020-07-GAEN-Symposium), a [video](https://www.youtube.com/watch?v=j0weRzYIsnM&list=PLLUsXRAaict7U00sMcwdLWwPPfRwpnMs5&index=4) discussion about the production and analytics of the COVID Green app in use by Ireland, Gibraltar, Pennsylvania, New York, and others.
