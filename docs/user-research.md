@@ -49,3 +49,5 @@ There has been a fair amount of discussion on the [LFPH Slack channel] around na
 * Random Keys
 * Ephemerial IDs
 * Random IDs
+* Anonymous IDs
+* Random numbers
