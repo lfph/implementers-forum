@@ -15,8 +15,14 @@ There are a number of legal documents that every exposure notification app will 
     * [Data and Privacy Summary](https://www.health.pa.gov/topics/disease/coronavirus/Pages/COVID-Alert-Data.aspx)
     * [Data and Privacy Policy](https://www.health.pa.gov/topics/Documents/Diseases%20and%20Conditions/COVID%20Alert%20App_Data%20and%20Privacy.pdf)
     * [General privacy and data terms, website](https://covidtracker.gov.ie/privacy-and-data/)
-* **United States - District of Columbia**
+* **District of Columbia**
     * [Privacy Policy](https://coronavirus.dc.gov/dccan/privacy)
+* **Colorado**
+    * [EN Privacy Policy](https://covid19.colorado.gov/exposure-notifications/privacy-policy)
+* **New York**
+    * [COVID Alert NY Privacy](https://coronavirus.health.ny.gov/covidalert-privacy)
+* **Academic Research**
+    * [Contact Tracing App Privacy: What Data Is Shared By Europe’s GAEN Contact Tracing Apps](https://www.scss.tcd.ie/Doug.Leith/pubs/contact_tracing_app_traffic.pdf)
 
 ## Data Use
 * **Ireland**
@@ -40,3 +46,7 @@ There are a number of legal documents that every exposure notification app will 
    * [FAQ](https://coronavirus.delaware.gov/covidalert/faqs/)
 * **Pennsylvania**
    * [FAQ](https://www.health.pa.gov/topics/disease/coronavirus/Pages/COVID-Alert-FAQs.aspx)
+* **District of Columbia**
+   * [FAQ](https://coronavirus.dc.gov/dccan/faq)
+* **Colorado**
+   * [FAQ](https://covid19.colorado.gov/Exposure-notifications)
