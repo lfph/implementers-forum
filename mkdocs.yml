@@ -15,10 +15,10 @@ nav:
   - 'index.md'
   - 'getting-started.md'
   - 'Documentation':
-    # - 'measurements-and-attenuation.md'
     - 'analytics.md'
     - 'equity-and-inclusion.md'
     - 'legal-documents.md'
+    - 'risk-scoring.md'
     - 'test-cases.md'
     - 'user-research.md'
   - 'contributors.md'
