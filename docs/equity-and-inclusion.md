@@ -27,5 +27,6 @@ Beyond that, think through the entire user experience of the exposure notificati
 
 ## Resources
 
+* [**Responsible Data Use Playbook for Digital Contact Tracing**](https://playbooks.brighthive.io/contact-tracing/), [Brighthive.io](https://www.brighthive.io)
 * [**‘Colorblind’ Tech is Killing Us: Why COVID-19 Tech Must Focus on Equity**](https://medium.com/berkman-klein-center/colorblind-tech-is-killing-us-why-covid-19-tech-must-focus-on-equity-9cd2b67cf84c), Dr. Mary Gray, Berkman Klein Center, Harvard University
 * [**Racism in the Time of COVID-19**](https://iaphs.org/racism-in-the-time-of-covid-19/), Interdisciplinary Association for Population Health Science

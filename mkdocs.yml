@@ -19,10 +19,17 @@ nav:
     - 'user-research.md'
     - 'analytics.md'
     - 'equity-and-inclusion.md'
-  # - 'Contributors.md' #
+    - 'legal-documents.md'
+    - 'test-cases.md'
+    - 'user-research.md'
+  - 'contributors.md'
 extra_css:
   - css/extra.css
 extra: 
   social: 
     - icon: fontawesome/brands/twitter 
       link: https://twitter.com/lfpubhealth 
+google_analytics:
+  - UA-82811140-43
+  - auto
+  
