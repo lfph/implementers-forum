@@ -10,10 +10,10 @@ There are a number of legal documents that every exposure notification app will 
 * **Ireland**
     * [General privacy and data terms, website](https://covidtracker.gov.ie/privacy-and-data/) 
 * **Delaware**
-   * [Data and Privacy Policy](https://coronavirus.delaware.gov/wp-content/uploads/sites/177/2020/09/COVID-Alert-Terms-082720-.pdf)
+    * [Data and Privacy Policy](https://coronavirus.delaware.gov/wp-content/uploads/sites/177/2020/09/COVID-Alert-Terms-082720-.pdf)
 * **Pennsylvania**
-   * [Data and Privacy Summary](https://www.health.pa.gov/topics/disease/coronavirus/Pages/COVID-Alert-Data.aspx)
-   * [Data and Privacy Policy](https://www.health.pa.gov/topics/Documents/Diseases%20and%20Conditions/COVID%20Alert%20App_Data%20and%20Privacy.pdf)
+    * [Data and Privacy Summary](https://www.health.pa.gov/topics/disease/coronavirus/Pages/COVID-Alert-Data.aspx)
+    * [Data and Privacy Policy](https://www.health.pa.gov/topics/Documents/Diseases%20and%20Conditions/COVID%20Alert%20App_Data%20and%20Privacy.pdf)
 
 ## Data Use
 * **Ireland**
