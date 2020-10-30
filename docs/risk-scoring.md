@@ -51,6 +51,8 @@ The PHA has the ability to define when infectiousness moves from none to standar
 
 ## Resources
 
+* [**Updates to the algorithm underlying the NHS COVID-19 app**](https://www.turing.ac.uk/blog/updates-algorithm-underlying-nhs-covid-19-app)
+    * The Alan Turing Institute shares their approach to risk scoring with the latests in GAEN APIs
 * [**Quantifying SARS-CoV-2 infection risk within the Google/Apple exposure notification framework to inform quarantine recommendations**](https://www.medrxiv.org/content/10.1101/2020.07.17.20156539v2)
     * Detailed research specific to GAEN apps out of the University of Arizona, focused on how to make sure risk settings match epidemiological and public health goals. This model is utilized by Covid Watch.
 * [**Infection Spread and High-Resolution Detection of Close Contact Behaviors**](https://www.mdpi.com/1660-4601/17/4/1445)
