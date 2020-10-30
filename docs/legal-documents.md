@@ -21,6 +21,9 @@ There are a number of legal documents that every exposure notification app will 
     * [EN Privacy Policy](https://covid19.colorado.gov/exposure-notifications/privacy-policy)
 * **New York**
     * [COVID Alert NY Privacy](https://coronavirus.health.ny.gov/covidalert-privacy)
+* **UK**
+    * [NHS COVID-19 app: privacy notice](https://www.gov.uk/government/publications/nhs-covid-19-app-privacy-information/nhs-test-and-trace-app-early-adopter-trial-august-2020-privacy-notice)
+    * [An easy read version of the privacy notice](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/920962/NHS_COVID-19_app_privacy_information__easy_read_.pdf)
 * **Academic Research**
     * [Contact Tracing App Privacy: What Data Is Shared By Europe’s GAEN Contact Tracing Apps](https://www.scss.tcd.ie/Doug.Leith/pubs/contact_tracing_app_traffic.pdf)
 
@@ -29,6 +32,8 @@ There are a number of legal documents that every exposure notification app will 
     * [Data protection information notice COVID tracker app](https://covidtracker.gov.ie/privacy-and-data/data-protection/); [GitHub version](https://github.com/HSEIreland/covidtracker-documentation/blob/master/documentation/privacy/DPINV1.1.mdown)
     * [Data protection impact assessment](https://github.com/HSEIreland/covidtracker-documentation/blob/master/documentation/privacy/Data%20Protection%20Impact%20Assessment%20for%20the%20COVID%20Tracker%20App%20-%2026.06.2020.pdf)
     * [Data protection impact assessment review](https://github.com/HSEIreland/covidtracker-documentation/blob/master/documentation/privacy/DPC%20review%20of%20CTI%20App%20DPIA%20June%202020.pdf)
+* **UK**
+    * [NHS COVID-19 app: data protection impact assessment](https://www.gov.uk/government/publications/nhs-covid-19-app-privacy-information/the-nhs-test-and-trace-app-early-adopter-trial-august-2020-data-protection-impact-assessment)
 
 ## Accessibility
 * **Canada**
