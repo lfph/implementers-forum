@@ -1,4 +1,4 @@
-# Legal Documents
+# Legal Documents and Security
 
 There are a number of legal documents that every exposure notification app will need to have prepared for launch. Please consult with your legal team to have them review any documents you choose to release with your app. LFPH is not providing legal advice here, but are just providing pointers to various documents that are available for reference. 
 
@@ -55,3 +55,6 @@ There are a number of legal documents that every exposure notification app will 
    * [FAQ](https://coronavirus.dc.gov/dccan/faq)
 * **Colorado**
    * [FAQ](https://covid19.colorado.gov/Exposure-notifications)
+
+## Security
+* [**Balancing Privacy and Security: Google Apple Contact Tracing**](https://duo.com/labs/research/balancing-privacy-and-security-google-apple-contact-tracing) - Duo, June 25, 2020
