@@ -4,7 +4,7 @@ LFPH in conjunction with Apple, Google, and the CDC hosted a working group to co
 
 [**You can view the full recommendations here.**](https://github.com/lfph/gaen-risk-scoring/blob/main/risk-scoring.md)
 
-## Resources
+## Additional Resources
 
 * [**Updates to the algorithm underlying the NHS COVID-19 app**](https://www.turing.ac.uk/blog/updates-algorithm-underlying-nhs-covid-19-app)
     * The Alan Turing Institute shares their approach to risk scoring with the latests in GAEN APIs
