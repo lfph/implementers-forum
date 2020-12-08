@@ -2,7 +2,7 @@
 
 This is a compilation of user research and UX reports conducted on the topic of exposure notification. For more support on user research you can also take a look at the [UX/UI Special Interest Group](https://github.com/lfph/sig-ui-ux).
 
-## From other countries
+## From various countries and states
 
 * [**The Netherlands**](https://github.com/minvws/nl-covid19-notification-app-design)
     * In Dutch. We recommend [Google Translate](https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fgithub.com%2Fminvws%2Fnl-covid19-notification-app-design%2Fblob%2Fmaster%2FREADME.md) to read them. They do have a link to some English translations but it is not as robust.
@@ -11,6 +11,10 @@ This is a compilation of user research and UX reports conducted on the topic of 
     * Well-documented user research process and findings.
 * [**Germany**](https://github.com/corona-warn-app/cwa-documentation/blob/master/ui_screens.md)
     * The UI screens that they have included in their app.
+* [**California**](https://www.nytimes.com/2020/12/07/technology/coronavirus-exposure-alert-apps.html)
+    * A pilot study in California suggested that traditional advertising might not be the most effective way to get people to use the technology. “Far and away the most effective messaging was a text to your phone,” said Dr. Christopher Longhurst, chief information officer at the University of California San Diego Health. The best text message, he said, told people that the app could help them protect their family and friends.
+
+
 
 ## Academic research
 
