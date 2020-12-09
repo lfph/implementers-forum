@@ -19,3 +19,10 @@ LFPH in conjunction with Apple, Google, and the CDC hosted a working group to co
     * A detailed account of Switzerland's approach to risk scoring using the v1 APIs
 * [**Google Exposure Notification API Testing, Fraunhofer IIS**](https://github.com/corona-warn-app/cwa-documentation/blob/master/2020_06_24_Corona_API_measurements.pdf)
     * A presentation from Germany summarizing some lab testing around the GAEN APIs
+
+## Data Sets
+
+These data sets contain bluetooth attenuation data for those who want to run their own calculations. 
+
+* [**DP3T Bluetooth Measurements**](https://github.com/DP-3T/bt-measurements)
+* [**NHSX GAEN Data**](https://github.com/nhsx/gaen_data-public)
