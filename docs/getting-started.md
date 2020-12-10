@@ -40,7 +40,7 @@ To obtain an entitlement, the PHA needs to submit a letter to Apple and Google a
 * Share the organization of the implementer who needs an entitlement
 * Include the date
 
-To simplify this, we have a [template](https://github.com/lfph/exposure-notification-playbook/blob/master/entitlement.md) available which can be used on the PHA letterhead.
+To simplify this, we have a [template](https://github.com/lfph/implementers-forum/blob/master/docs/resources/entitlement.md) available which can be used on the PHA letterhead.
 
 The letters for each company need to be submitted via a form on their websites:
 
