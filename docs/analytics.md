@@ -2,6 +2,14 @@
 
 This is a compilation of documentation available on how different countries approach analytics and telemetry of their apps.
 
+## ENPA
+
+If you are running ENX, please contact your Google and Apple developer relations teams about enrolling in ENPA. For those setting up ENPA, we strongly recommend including the opt-in for analytics to your current app sign-up process, even if you are not yet enrolled in ENPA. Having pre-authorization for anonymous, aggregated analytics will help you collect better information faster so you can adjust your system moving forward.
+
+More information coming soon. 
+
+## Resources
+
 * **Italy**
     * This [detailed description](https://github.com/immuni-app/immuni-documentation/blob/master/Privacy-Preserving%20Analytics.md) covers how the Italians were able to implement analytics in a secure fashion to both maintain user privacy and server data integrity.
 * **Switzerland**
