@@ -14,8 +14,8 @@ System requirements for GAEN APIs:
     * Android API level 23 (Marshmallow) and higher
     * Phone must have bluetooth low energy (BLE) hardware capabilities
 * Apple
-    * User must upgrade to iOS 13.5+
-    * iPhone 4 and newer
+    * User must upgrade to iOS [12.5](https://9to5mac.com/2020/12/14/apple-releases-ios-12-5-for-older-iphones-with-support-for-covid-19-exposure-notifications/) or 13.5+
+    * iPhone 6 and newer
 
 Part of a PHA's inclusivity efforts need to include tech education – many people may have phones that are able to run the latest operating system version, but the users do not know how to upgrade. For Android users, some of the more affordable phones may not have the ability to use BLE and so they will not be able to participate in GAEN apps.
 
