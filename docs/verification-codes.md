@@ -26,7 +26,7 @@ The message that gets sent out with the verification code varies from one jurisd
 
 ## TCPA Compliance
 
-For US jurisdictions, *please consult with your legal team about TCPA compliance* in sending these messages. LFPH is unable to provide legal advice on this topic, but we have found resources online that indicate that these verification messages are compliant with TCPA because they are related to lab results, have a non-marketing purpose, and are concise. Beyond that, it is worth considering that there are HELP and STOP responses available for people to get assistance and opt out. (Sources: [Adventist Health Care](https://www.adventisthealthcare.com/terms-service/tcpa-policy-for-sms-communications/), [Holland and Hart](https://www.hollandhart.com/pdf/TCPA-Health-Law-Webinar-Slides.pdf), [WyrickRobbins](https://assets.hcca-info.org/Portals/0/PDFs/Resources/Conference_Handouts/Compliance_Institute/2016/404print2.pdf).)
+Please consult with your legal team about compliance with Telephone Consumer Protection Act (TCPA) and similar laws. LFPH is unable to provide legal advice.
 
 ## Exposure Notification Messages
 
