@@ -22,7 +22,6 @@ The message that gets sent out with the verification code varies from one jurisd
      * `Your Exposure Notifications verification link: https://us-xx.en.express/v?c=asdfasdfasdfasdf. Expires in 24 hours (click for mobile device only)`
 * Colorado
      * `Anonymously share your COVID test to CO Exposure Notifications & help your community. Your link https://us-xx.en.express/v?c=asdfasdfasdfasdf —PHA.`
-* 
 
 ## TCPA Compliance
 
