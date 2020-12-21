@@ -29,7 +29,7 @@ Please consult with your legal team about compliance with Telephone Consumer Pro
 
 ## Exposure Notification Messages
 
-Here are the messages different jurisdictions send out once someone receives a potential exposure notification. The critical piece here is to direct the person receiving the notification to further resources and information around testing and quarantine, including any support available to them for financial and logistical assistance (grocery delivery, etc.).
+Here are some messages different jurisdictions send out once someone receives a potential exposure notification. It is important to direct the person receiving the notification to further resources and information around testing and quarantine, including any support available to them for financial and logistical assistance (grocery delivery, etc.). The recommendation from epidemiologists is to keep the language very simple, targeting around a 5th grade language level. We have listed notifications we've been able to find for reference purposes and their inclusion on this list is not an endorsement of the language choices that a particular jurisdiction has made.
 
 * Nevada
      * **Potential Exposures** on _date_: You were in close proximity to someone for X minutes who tested positive for COVID-19.
