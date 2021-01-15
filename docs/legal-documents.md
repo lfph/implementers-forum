@@ -58,3 +58,11 @@ There are a number of legal documents that every exposure notification app will 
 
 ## Security
 * [**Balancing Privacy and Security: Google Apple Contact Tracing**](https://duo.com/labs/research/balancing-privacy-and-security-google-apple-contact-tracing) - Duo, June 25, 2020
+
+## Minors
+
+A US state provided the following information about expanding their app to include people ages 13-18: 
+
+> Essentially, we have users on-board after downloading the app. After several legal discussions, we landed on just adding a notice on the on-boarding screen indicating that parents/guardians should approve the use for ages 13-17. Additionally, if we learn that we took information from anyone under 18 -- which is only 2 ways we could potentially collect 1) the de-identifiable aggregate stats via symptom check-in and 2) when someone requests a call-back number after they received an exposure alert through the app and we conduct contact tracing. On #2, we usually ask if they are under 18. If they are then we ask for a parent/guardian. Without consent, it is very unlikely we will ever have collected any information. We then updated our data and privacy policy and the age group during app downloads.
+
+> In our Current workflow, Case Investigators will not continue case investigation with a minor in the absence of a parent/legal guardian. For minors, we send 6-digit codes to the phone that have the app installed. Plus, we also have the option to verbally provide the code over the phone. However, this is all done in the presence of the parent/legal guardian.
