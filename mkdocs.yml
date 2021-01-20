@@ -16,6 +16,7 @@ nav:
   - 'getting-started.md'
   - 'Documentation':
     - 'analytics.md'
+    - 'adoption-and-rollout.md'
     - 'equity-and-inclusion.md'
     - 'legal-documents.md'
     - 'verification-codes.md'
