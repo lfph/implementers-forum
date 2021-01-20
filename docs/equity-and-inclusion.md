@@ -4,6 +4,10 @@ In order for exposure notification apps to be successful, they need to be built 
 
 Who is defined as underserved will vary from one country or jurisdiction to the next. But in general it is important to consider those who don't have access to the latest technology, whether due to age, socio-economic status, languages spoken, or concerns about privacy.
 
+## Localization
+
+In partnership with the Washington State Department of Health, LFPH has open sourced translations of their Exposure Notification Express app into 36 different languages. You can access that project on the [LFPH GitHub](https://github.com/lfph/enx-translations).
+
 ## Challenges
 
 ### Technical
