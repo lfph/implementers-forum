@@ -9,3 +9,4 @@ Adoption and rollout are a critical piece of making sure your EN launch goes smo
 * Washington
    * [Intro video](https://www.youtube.com/watch?v=BHpXuARRsJw&feature=emb_imp_woyt)
    * [Pearl Jam - Stone Gossard](https://www.youtube.com/watch?v=QG5W99tQNJ8): A great example of how to engage your influencers to create content for your exposure notification app. 
+   * [Other advertisements](https://coronavirus.wa.gov/partner-toolkit) This site includes banners, print ads, printable materials, radio, social media ads, and videos.
