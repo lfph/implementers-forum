@@ -10,3 +10,6 @@ Adoption and rollout are a critical piece of making sure your EN launch goes smo
     * [Intro video](https://www.youtube.com/watch?v=BHpXuARRsJw&feature=emb_imp_woyt)
     * [Pearl Jam - Stone Gossard](https://www.youtube.com/watch?v=QG5W99tQNJ8): A great example of how to engage your influencers to create content for your exposure notification app. 
     * [Other advertisements](https://coronavirus.wa.gov/partner-toolkit) This site includes banners, print ads, printable materials, radio, social media ads, and videos.
+
+* **Explainer videos**
+    * [Exposure Notifications: How it works](https://www.youtube.com/watch?v=qQYM25bpiLo&feature=youtu.be) VIDEO USAGE FOR ALL LEVELS OF GOVERNMENT PUBLIC HEALTH AGENCIES OR MEDIA: If you wish to have a FREE downloadable copy of this video to imbed on your own public website, rather than linking to it on YouTube, please leave a comment on the YouTube page or contact [LFPH](mailto:info@lfph.io) to connect you to the creators.
