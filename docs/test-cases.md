@@ -15,3 +15,7 @@ This section shares some of the learnings that other teams have had from testing
 ## App Validation
 
 Most jurisdictions launching an app have had a security and compliance review completed by a neutral 3rd party. This is strongly recommended - please contact a staff member at LFPH if you would like a referral to a group that can do this.
+
+## Test in the Mornings
+
+It takes a few hours for the alerts to come through, so as you're testing your system make sure to upload codes in the morning so that you can have the notifications appear during the workday. 
