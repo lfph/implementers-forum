@@ -17,6 +17,7 @@ System requirements for GAEN APIs:
 * Google
     * Android API level 23 (Marshmallow) and higher
     * Phone must have bluetooth low energy (BLE) hardware capabilities
+
 * Apple
     * User must upgrade to iOS [12.5](https://9to5mac.com/2020/12/14/apple-releases-ios-12-5-for-older-iphones-with-support-for-covid-19-exposure-notifications/) or 13.5+
     * iPhone 6 and newer
