@@ -6,7 +6,7 @@ Verification codes are the alphanumeric codes sent to people who have tested pos
 
 For many people, a positive test result is a very emotional and stressful moment. Many people receiving these notifications may know someone who passed away from COVID-19. Try as much as possible to accompany these messages with a human touch and quick follow-up from a case investigator. For more on this topic, visit [equity and inclusion](/equity-and-inclusion.md).
 
-## The "Colorado method" 
+## The "Colorado method"
 
 This verification code process has come to be called the "Colorado method", though other states and countries have also separately implemented similar systems. The basic idea behind this is that the code issuance is integrated as closely as possible with a state's electronic laboratory reporting (ELR) system. Phone numbers are collected at the time of testing so that as soon as a positive test result is confirmed the text can go out without the need for any further action from a human being.
 
@@ -19,8 +19,10 @@ One state that has used this system have seen a 60% uptick in submitted codes as
 The message that gets sent out with the verification code varies from one jurisdiction to another. Anywhere you see a string of random letters on a URL note that that is to test message length. Where it says `PHA` is where a jurisdiction should sign with the name of the ministry or department of health name.
 
 * APHL verification server default
+
      * `Your Exposure Notifications verification link: https://us-xx.en.express/v?c=asdfasdfasdfasdf. Expires in 24 hours (click for mobile device only)`
 * Colorado
+
      * `Anonymously share your COVID test to CO Exposure Notifications & help your community. Your link https://us-xx.en.express/v?c=asdfasdfasdfasdf —PHA.`
 
 ## TCPA Compliance

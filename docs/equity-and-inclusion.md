@@ -6,7 +6,7 @@ Who is defined as underserved will vary from one country or jurisdiction to the 
 
 ## Localization
 
-In partnership with the Washington State Department of Health, LFPH has open sourced translations of their Exposure Notification Express app into 36 different languages. You can access that project on the [LFPH GitHub](https://github.com/lfph/enx-translations).
+Due to contributions from the Washington State Department of Health, LFPH has open sourced translations of their Exposure Notification Express app into 36 different languages. You can access that project on the [LFPH GitHub](https://github.com/lfph/enx-translations).
 
 ## Challenges
 
