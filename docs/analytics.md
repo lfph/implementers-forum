@@ -19,6 +19,8 @@ More information coming soon.
 
 ## Efficacy Resources
 
+* **England and Wales**
+    * [The epidemiological impact of the NHS COVID-19 app](https://www.nature.com/articles/s41586-021-03606-z): A thorough study on the estimated number of cases averted and lives saved by the NHS exposure notification app.  
 * **Spain**
     * [A population-based controlled experiment assessing the epidemiological impact of digital contact tracing](https://www.nature.com/articles/s41467-020-20817-6): "After a substantial communication campaign, we estimate that at least 33% of the population adopted the technology and further showed relatively high adherence and compliance as well as a quick turnaround time."
 * **Switzerland**
