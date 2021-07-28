@@ -20,7 +20,9 @@ More information coming soon.
 ## Efficacy Resources
 
 * **England and Wales**
-    * [The epidemiological impact of the NHS COVID-19 app](https://www.nature.com/articles/s41586-021-03606-z): A thorough study on the estimated number of cases averted and lives saved by the NHS exposure notification app.  
+    * [The epidemiological impact of the NHS COVID-19 app](https://www.nature.com/articles/s41586-021-03606-z): A thorough study on the estimated number of cases averted and lives saved by the NHS exposure notification app. 
+* **Washington, US**
+    * [Early Epidemiological Evidence of Public Health Value of WA Notify, a Smartphone-based Exposure Notification Tool: Modeling COVID-19 Cases Averted in Washington State](https://www.medrxiv.org/content/10.1101/2021.06.04.21257951): They assessed the impact of Washington State’s exposure notification tool, WA Notify, in mitigating the spread of COVID-19 during its first four months of implementation.
 * **Spain**
     * [A population-based controlled experiment assessing the epidemiological impact of digital contact tracing](https://www.nature.com/articles/s41467-020-20817-6): "After a substantial communication campaign, we estimate that at least 33% of the population adopted the technology and further showed relatively high adherence and compliance as well as a quick turnaround time."
 * **Switzerland**
