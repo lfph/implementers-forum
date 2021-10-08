@@ -2,6 +2,10 @@
 
 Verification codes are the alphanumeric codes sent to people who have tested positive so that they can upload their keys and alert others who may have been exposed. It has become clear through the deployment of these systems that making it as seamless as possible to receive and upload a code after a positive test result is a critical piece of making any EN system work.
 
+## Sample ENX Language and Translations Available
+
+Washington State has open sourced the entirety of its messaging for other states to use and build off of. See the full document [here](https://github.com/lfph/enx-translations).
+
 ## Important consideration for health equity and inclusion
 
 For many people, a positive test result is a very emotional and stressful moment. Many people receiving these notifications may know someone who passed away from COVID-19. Try as much as possible to accompany these messages with a human touch and quick follow-up from a case investigator. For more on this topic, visit [equity and inclusion](/equity-and-inclusion.md).
