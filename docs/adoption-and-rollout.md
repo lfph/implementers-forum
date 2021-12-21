@@ -8,6 +8,8 @@ Adoption and rollout are a critical piece of making sure your EN launch goes smo
     * [Communications Toolkit](https://www.cdph.ca.gov/Programs/OPA/Pages/Communications-Toolkits/notify.aspx): A variety of marketing materials including vidoes, handouts, banners for social media, and more around the messaging for their ENX deployment. 
 * **Colorado**
     * [Add Your Phone](https://www.addyourphone.com): This site is both a site for the general population as well as a resource for community members to promote the app. It has a download links section with social media graphics, a one-pager, a letter of support template, and FAQs. 
+* **Massachusetts**
+    * [MassNotify Toolkit](https://www.dropbox.com/sh/ah5hvl1kwlalrhj/AAA1ISH1X0t2h4CrOQaVCtaMa/TOOLKIT/PREVIEW?dl=0&preview=MassNotify_Toolkit_Updated_v6.pdf): A full media toolkit including flyers, business cards, one pagers, social media ads, etc. Much of it available in multiple languages including English, Spanish, Portuguese, Hatian Creole, Hindi, Nepali, Vietnamese, Simplified Chinese, and French.
 * **Washington**
     * [Intro video](https://www.youtube.com/watch?v=BHpXuARRsJw&feature=emb_imp_woyt)
     * [Pearl Jam - Stone Gossard](https://www.youtube.com/watch?v=QG5W99tQNJ8): A great example of how to engage your influencers to create content for your exposure notification app. 
